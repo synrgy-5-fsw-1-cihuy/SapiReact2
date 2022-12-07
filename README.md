@@ -6,6 +6,7 @@ Ganda
 Hanif 
 Helmi
 Rizky
+Finder
 ```
 
 ```sh

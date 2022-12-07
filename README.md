@@ -24,6 +24,7 @@ footer   ganda
 
 ```sh
 NPM install 
+NPM run start
 ```
 
 ## How To Contribute

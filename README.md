@@ -11,6 +11,12 @@ Finder
 
 ```sh
 Studi Kasus Toko Sayuran
+Job Desk
+Header hanif
+slider rizky
+content1 finder
+content2 helmi
+footer   ganda
 ```
 
 

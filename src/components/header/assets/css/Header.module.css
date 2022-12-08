@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+}
+
+.textTitle {
+    font-size: 25px;
+    color: #5aa53b !important;
+    font-weight: 500;
+}
+
+.textSubTitle {
+    font-size: 18px;
+    font-weight: 200;
+}
+
+
+.offcanvasBg {
+    padding-left: 30px;
+    min-height: 300px;
+}
+
+.radio {
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0.300);
+    width: 40%;
+}
+
+.button {
+    border: 0px solid white;
+    border-radius: 20px;
+    min-width: 90px;
+    background: #4fa53b !important;
+    color: #FFFFFF;
+}
+
+.navLinkText {
+    font-size: 19px;
+    font-family: 'Helvetica';
+    /* font-family: 'DM Serif Text', serif; */
+}

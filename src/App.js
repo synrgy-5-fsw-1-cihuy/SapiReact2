@@ -1,6 +1,8 @@
 import './App.css';
-import Content from './components/content/Content';
 import Header from './components/header/Header';
+import Content1 from './components/content/Content1';
+import Content2 from './components/content2/Content2';
+import Footer from './components/footer/Footer';
 
 
 function App() {
@@ -11,7 +13,8 @@ function App() {
   return (
     <div className="App">
       <Header name="Jalil" age={20} person={person} />
-      <Content name="Jalil" age={20} />
+      <Content1 />
+      <Content2 />
       {/* FAQ */}
       <Footer />
     </div>

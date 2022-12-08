@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-md-5 mt-md-0 mt-3">
             <h5 className="text-uppercase">Contact Us</h5>
-            <p>Here you can use rows and columns to organize your footer content.</p>
+            <p>Jalan BSD Grand Boulevard, Sampora, BSD, Tangerang, Banten 15345. BSD Green Office Park. Tangerang, Banten 12730</p>
           </div>
 
           <hr className="clearfix w-100 d-md-none pb-0" />

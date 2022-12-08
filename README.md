@@ -24,4 +24,14 @@ footer   ganda
 
 ```sh
 NPM install 
+NPM run start
+```
+
+## How To Contribute
+```sh
+Clone dulu repo ini git clone repo ini atau https://github.com/synrgy-5-fsw-1-cihuy/SapiReact2
+Buat branch baru git branch "apayangdikerjakan/nama"
+Kerjakan sesuai jobdesk
+Push project git add -> git commit -m "pesan" -> git push origin namabranch 
+
 ```
